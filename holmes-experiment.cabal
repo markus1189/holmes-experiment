@@ -23,5 +23,6 @@ executable holmes-experiment
   -- other-extensions:
   build-depends:       base
                      , holmes >= 0.3 && <= 0.4
+                     , hashable
   -- hs-source-dirs:
   default-language:    Haskell2010
